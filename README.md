@@ -1,6 +1,6 @@
 # Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
-## Name: Renick Fabian Rajesh
-## Reg No: 212224230227
+## Name: Aaron alex p
+## Reg No: 212224230002
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
@@ -19,8 +19,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Renick Fabian Rajesh
-RegisterNumber: 212224230227
+Developed by: aaron alex p
+RegisterNumber: 212224230002
 */
 ```
 ```
